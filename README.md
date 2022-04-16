@@ -6,8 +6,33 @@ This repository is made for giving delight to all testers who struggle with test
 ---
 
 
+![skippedQa](/images/skippedQA.jpeg)
 
-![devWatchQA](/videos/devWatchQA.mp4)
+---
+
+![foundDefect](/images/foundDefect.jpeg)
+
+---
+
+![aintNobodyManualTest](/images/aintNobodyManualtest.jpeg)
+
+---
+
+![testSword](/images/testSword.jpeg)
+
+---
+
+![testWontFail](/images/testWontFail.jpeg)
+
+---
+
+![waitForResult](/images/waitForResult.jpeg)
+
+---
+
+![wahtQAdo](/images/whatQAdo.jpeg)
+
+---
 
 
 
