@@ -36,6 +36,12 @@ This repository is made for giving delightful to all testers who struggle with t
 
 ---
 
+![dev-tester](/images/dev-tester.jpg)
+
+---
+
+![dev-tester](/images/dev-tester2.jpg)
+
 
 
 
