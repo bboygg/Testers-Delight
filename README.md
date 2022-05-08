@@ -7,6 +7,11 @@
 
 ---
 
+![FoundABug](/images/george-found-bug.jpg)
+
+
+---
+
 ![enteringQA](/images/enteringQA.gif)
 
 ---
