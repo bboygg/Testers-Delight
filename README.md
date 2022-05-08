@@ -2,8 +2,10 @@
 
 
 ```
-This repository is made for giving delightful to all testers who struggle with testing.
+# Thanks to Testers and Developers who go through all difficulties with testing.
 ```
+
+---
 
 ![enteringQA](/images/enteringQA.gif)
 
